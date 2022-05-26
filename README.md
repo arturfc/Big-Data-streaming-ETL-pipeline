@@ -3,7 +3,7 @@
 
 Este projeto computa o resultado contínuo de um ambiente que simula a chegada de novos dados a cada momento, correspondentes à estrutura esperada. Este processo também é chamado de *Structured Streaming*.
 
-A base de dados é composta por informações de companhias aéreas. O objetivo é, a partir da ingestão de dados, aplicar transformações para rankear a média do tempo de atraso de chegada dos voos das respectivas companhias aéreas, dentro da mesma categoria origem-destino.
+A base de dados é composta por informações de companhias aéreas. O **objetivo** é, a partir da ingestão de dados, aplicar transformações para rankear a média do tempo de atraso de chegada dos voos das respectivas companhias aéreas, dentro da mesma categoria origem-destino.
 
 ## Requisitos para rodar o código
 
