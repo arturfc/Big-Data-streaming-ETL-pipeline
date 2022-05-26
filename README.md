@@ -3,11 +3,11 @@
 
 Este projeto computa o resultado contínuo de um ambiente que simula a chegada de novos dados a cada momento, correspondentes à estrutura esperada. Este processo também é chamado de *Structured Streaming*.
 
-A base de dados é composta informações de companhias aéreas. O objetivo é, a partir da ingestão de dados, aplicar transformações para rankear a média do tempo de atraso de chegada dos voos das respectivas companhias aéreas, dentro da mesma categoria origem-destino.
+A base de dados é composta por informações de companhias aéreas. O objetivo é, a partir da ingestão de dados, aplicar transformações para rankear a média do tempo de atraso de chegada dos voos das respectivas companhias aéreas, dentro da mesma categoria origem-destino.
 
 ## Requisitos para rodar o código
 
-Para rodar o código, será necessário efetuar o download dos datasets localizados em [airlines-datasets](airlines-datasets). Após o download, é aconselhavel que seja efetuado um upload dos arquivos para uma conta do google drive, pois ao decorrer do código será requisitado o diretório dos arquivos para suas devidas utilizações.
+Para rodar o código, será necessário efetuar o download dos datasets localizados em [airlines-datasets](airlines-datasets). Após o download, é aconselhável que seja efetuado um upload dos arquivos para uma conta do google drive, pois ao decorrer do código será requisitado o diretório dos arquivos para suas devidas utilizações.
 ## Configurando variáveis do ambiente no Google Colab
 
 Instale o java dentro da Virtual Machine
